@@ -1,0 +1,12 @@
+Change te below input values and execute the script 
+--------------------------------------------------
+Low NUMBER :=1;  /*input value*/
+High NUMBER :=5; /*input value- should be greater than Low variable */
+A    NUMBER :=2; /*input value*/
+B    NUMBER :=3; /*input value*/
+
+Sample Output :
+--------------
+2-Fancy
+3-Pants
+4-Fancy 
