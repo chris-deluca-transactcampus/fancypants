@@ -2,7 +2,7 @@
 
 #### The purpose of this exercise is to start a discussion for interviewing purposes.  The exercise should only take a short amount of time, but it should be completed with care.  
 
-#### Depending on the type of job you are applying for, you may complete this exercise in any programming language that makes sense (e.g. C#, Java & Spring Boot, SQL (PL/SQL or T/SQL), Delphi, C++, Bash, etc.).
+#### Depending on the type of job you are applying for, you may complete this exercise in any programming language that makes sense (e.g. C#, Angular, SQL (PL/SQL or T/SQL), Delphi, C++, Bash, ASP.NET, etc.).
 
 ### The process is as follows:
 1. Using the "Application Specification" (found below), please create an application, and any test routines, that completely fulfills the requirements found in the Application Specification
