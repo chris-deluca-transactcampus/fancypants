@@ -4,7 +4,7 @@
 
 #### Depending on the type of job you are applying for, you may complete this exercise in any programming language that makes sense (e.g. C#, Angular, SQL (PL/SQL or T/SQL), C++, Bash, ASP.NET, etc.).
 
-### The process is as follows:
+### The overall process will be as follows:
 1. Using the "Application Specification" (found below), please create an application, and any test routines, that completely fulfills the requirements found in the Application Specification
     + How you output each number (for the requirement below) is up to you and will be dependant on what technology you are using (e.g. web page vs. console application vs. database developer)
     + The application you create should reflect the position you are applying for (e.g. a web solution for a web position, web service/console app for a C# position, sql script for sql dev, etc), but if you are more of a full-stack developer, please feel free to complete it in any of your stronger skill set areas.
@@ -20,6 +20,8 @@
 1. Email the password for your zip file to: chris.deluca[at]transactcampus.com 
     + Have the subject of your email be: [YourName] - FancyPants Submission
 1. If you have questions about the exercise, please contact me (chris.deluca[at]transactcampus.com) and not the recruiters working with HR
+
+<hr/>
 
 ### Application Specification
 + Primary requirement: Produce a program or script that does the following:
